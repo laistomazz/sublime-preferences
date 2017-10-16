@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Babel",
+		"BracketHighlighter",
+		"Cobalt2 Flat Theme",
+		"Color Highlighter",
+		"EditorConfig",
+		"Emmet",
+		"Hugofy",
+		"JavaScript Completions",
+		"jQuery",
+		"MarkdownEditing",
+		"Material Theme",
+		"Material Theme - Appbar",
+		"Origami",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-sass-lint",
+		"Super Calculator",
+		"Theme - Cobalt2",
+		"Vue Syntax Highlight"
+	]
+}
+
