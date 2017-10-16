@@ -4,13 +4,12 @@
 
 ## Editor
 
-See [Preferences.sublime-settings](https://github.com/laistomazz/sublime-preferences/blob/master/Preferences.sublime-settings) for editor preferences.
+- [Preferences.sublime-settings](https://github.com/laistomazz/sublime-preferences/blob/master/Preferences.sublime-settings)
+- [.editorconfig](https://github.com/laistomazz/sublime-preferences/blob/master/.editorconfig)
 
-## Plugins
+## Packages
 
-See [Package Control.sublime-settings](https://github.com/laistomazz/sublime-preferences/blob/master/Package%20Control.sublime-settings) for installed plugins.
-
-All plugins need to be downloaded from [Package Control](https://sublime.wbond.net/).
+[Package Control.sublime-settings](https://github.com/laistomazz/sublime-preferences/blob/master/Package%20Control.sublime-settings)
 
 ## Credits
 
