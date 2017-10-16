@@ -8,13 +8,13 @@
 		"A File Icon",
 		"Babel",
 		"BracketHighlighter",
+		"Can I Use",
 		"Cobalt2 Flat Theme",
+		"Coffee Color Scheme",
 		"Color Highlighter",
 		"EditorConfig",
 		"Emmet",
 		"Hugofy",
-		"JavaScript Completions",
-		"jQuery",
 		"MarkdownEditing",
 		"Material Theme",
 		"Material Theme - Appbar",
@@ -23,6 +23,7 @@
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
+		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-sass-lint",
 		"Super Calculator",
@@ -30,4 +31,3 @@
 		"Vue Syntax Highlight"
 	]
 }
-
